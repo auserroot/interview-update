@@ -1,0 +1,1 @@
+(function hitokoto(){var hitokoto="溪云初起日沉阁，山雨欲来风满楼。";var dom=document.querySelector('');Array.isArray(dom)?dom[0].innerText=hitokoto:dom.innerText=hitokoto;})()
